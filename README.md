@@ -2,7 +2,7 @@
 
 # Weather-Journal App Project
 
-## project author: Omar Walid Ahmed AbdEl-salam
+## project author: Omar Walid Ahmed
 
 ## project description:
 
