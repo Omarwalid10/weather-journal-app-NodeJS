@@ -6,7 +6,7 @@
 
 ## project description:
 
-This project is asynchronous web app that uses Web API , the server and user data to dynamically update the user interface by get information form the openweathermap website and but them in the server and get them form server again to update the UI by this data .
+This project is an asynchronous web app that uses Web API, the server, and user data to dynamically update the user interface by getting information from the OpenWeatherMap website and putting them in the server, and getting them from the server again to update the UI by this data .
 
 ## project Technoglogie:
 
